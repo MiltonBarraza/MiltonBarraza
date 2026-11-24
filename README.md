@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Milton Barraza
 
-<!--
-**MiltonBarraza/MiltonBarraza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on **React, Next.js, JavaScript, and TypeScript**, with 4+ years of experience building and maintaining web applications.
 
-Here are some ideas to get you started:
+I currently work on **Callixto**, a business management ERP developed within **CallixtoGLM**, where I focus on frontend development, REST API integration, server-state management, and business workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main stack
+
+React · Next.js · JavaScript · TypeScript · TanStack Query · React Hook Form · Git
+
+## Selected project
+
+### Pandora — Excel & CSV Data Processing Tool
+
+Frontend application for cleaning, transforming, validating, and previewing Excel and CSV data.
+
+[Live demo](https://pandora-glm.netlify.app/)
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/miltonbarraza/)
